@@ -1,6 +1,5 @@
 # 💫 About Me:
-Bsc IT graduate from NWU.<br>Aspiring Software Engineer and Data Analyst
-
+As an aspiring Information Technology graduate with a solid foundation in computing, I am passionate about leveraging technology to create innovative, user-centred solutions that address real-world challenges. With strong analytical skills and a commitment to continuous learning, I am enthusiastic about software engineering, delivering high-quality solutions across both front-end and back-end systems. My experience in projects helps me to contribute effectively to all stages of the development lifecycle, supporting strategic decision-making through data-driven solutions.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alonempitula) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Alonempitula) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mpitula) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AloneMpitula) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Alonemapitlula@gmail.com) 
